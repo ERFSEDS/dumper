@@ -1,0 +1,8 @@
+[package]
+name = "dumper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serialport = "4.2.0"
+simple_moving_average = "0.1.2"
